@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\MiniProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3485728-5EC7-40E8-92F1-C656F3139AE6}|Domain\\Domain.csproj|e:\\project\\miniproject\\domain\\entities\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3485728-5EC7-40E8-92F1-C656F3139AE6}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3485728-5EC7-40E8-92F1-C656F3139AE6}|Domain\\Domain.csproj|e:\\project\\miniproject\\domain\\entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3485728-5EC7-40E8-92F1-C656F3139AE6}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3302DE-4CB0-4B14-8C89-48CD3AC04F58}|Infrastructure\\Infrastructure.csproj|e:\\project\\miniproject\\infrastructure\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3302DE-4CB0-4B14-8C89-48CD3AC04F58}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3302DE-4CB0-4B14-8C89-48CD3AC04F58}|Infrastructure\\Infrastructure.csproj|e:\\project\\miniproject\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3302DE-4CB0-4B14-8C89-48CD3AC04F58}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEE8EA9-34B9-4949-9058-AB2182516198}|MiniProject\\MiniProject.csproj|e:\\project\\miniproject\\miniproject\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEE8EA9-34B9-4949-9058-AB2182516198}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEE8EA9-34B9-4949-9058-AB2182516198}|MiniProject\\MiniProject.csproj|e:\\project\\miniproject\\miniproject\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEE8EA9-34B9-4949-9058-AB2182516198}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3302DE-4CB0-4B14-8C89-48CD3AC04F58}|Infrastructure\\Infrastructure.csproj|e:\\project\\miniproject\\infrastructure\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3302DE-4CB0-4B14-8C89-48CD3AC04F58}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEE8EA9-34B9-4949-9058-AB2182516198}|MiniProject\\MiniProject.csproj|e:\\project\\miniproject\\miniproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDEE8EA9-34B9-4949-9058-AB2182516198}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "E:\\Project\\MiniProject\\Domain\\Entities\\Menu.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Menu.cs",
+              "ToolTip": "E:\\Project\\MiniProject\\Domain\\Entities\\Menu.cs",
+              "RelativeToolTip": "Domain\\Entities\\Menu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:59:37.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "News.cs",
+              "DocumentMoniker": "E:\\Project\\MiniProject\\Domain\\Entities\\News.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\News.cs",
+              "ToolTip": "E:\\Project\\MiniProject\\Domain\\Entities\\News.cs",
+              "RelativeToolTip": "Domain\\Entities\\News.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:59:35.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Project\\MiniProject\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Project\\MiniProject\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:44:30.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewsService.cs",
+              "DocumentMoniker": "E:\\Project\\MiniProject\\Infrastructure\\Services\\NewsService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\NewsService.cs",
+              "ToolTip": "E:\\Project\\MiniProject\\Infrastructure\\Services\\NewsService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\NewsService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:44:09.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "E:\\Project\\MiniProject\\Infrastructure\\Services\\MenuService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\MenuService.cs",
+              "ToolTip": "E:\\Project\\MiniProject\\Infrastructure\\Services\\MenuService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\MenuService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA8wAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:43:51.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "E:\\Project\\MiniProject\\MiniProject\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Controllers\\NewsController.cs",
+              "ToolTip": "E:\\Project\\MiniProject\\MiniProject\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "MiniProject\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:31:48.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "E:\\Project\\MiniProject\\MiniProject\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Controllers\\MenuController.cs",
+              "ToolTip": "E:\\Project\\MiniProject\\MiniProject\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "MiniProject\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvx8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:29:42.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Project\\MiniProject\\MiniProject\\appsettings.json",
+              "RelativeDocumentMoniker": "MiniProject\\appsettings.json",
+              "ToolTip": "E:\\Project\\MiniProject\\MiniProject\\appsettings.json",
+              "RelativeToolTip": "MiniProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-10T09:27:23.096Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
